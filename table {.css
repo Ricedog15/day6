@@ -1,0 +1,14 @@
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+ #mytable {
+     background-color: green  ;
+     color: solid green ;
+     padding: 16px;
+     text-align: auto;
+ }
+ table, th, td {
+    border: 1px solid black;
+  }
